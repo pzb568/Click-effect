@@ -10,5 +10,5 @@ https://cdn.jsdelivr.net/gh/pzb568/mycdn@master/click_effect/clicklove.js
 ## 引入网页
 
 ```
-https://cdn.jsdelivr.net/gh/pzb568/mycdn@masterclick_effect/fireworks.js
+https://cdn.jsdelivr.net/gh/pzb568/mycdn@master/click_effect/fireworks.js
 ```
